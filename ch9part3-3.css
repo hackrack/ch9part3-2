@@ -1,0 +1,14 @@
+  p {
+    text-transform: uppercase;
+    padding: 5px;
+  }
+
+  #first{
+    background-color: goldenrod;
+  }
+  #second{
+   background-color: #CD7F32;
+  }
+  #third{
+    background-color: silver;
+  }
